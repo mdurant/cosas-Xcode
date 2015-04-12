@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>10K549</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>Wondershare Helper Compact</string>
+	<key>CFBundleIconFile</key>
+	<string>wondershare helper</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.wondershare.helper_compact</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Wondershare Helper Compact</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.3.4.2</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>2.3.4.2</string>
+	<key>Check Auto App Terminate Interval</key>
+	<integer>3</integer>
+	<key>Check Network Interval </key>
+	<integer>10</integer>
+	<key>Check New Tip Interval</key>
+	<integer>3600</integer>
+	<key>DTCompiler</key>
+	<string></string>
+	<key>DTPlatformBuild</key>
+	<string>10M2518</string>
+	<key>DTPlatformVersion</key>
+	<string>PG</string>
+	<key>DTSDKBuild</key>
+	<string>10M2518</string>
+	<key>DTSDKName</key>
+	<string>macosx10.6</string>
+	<key>DTXcode</key>
+	<string>0400</string>
+	<key>DTXcodeBuild</key>
+	<string>10M2518</string>
+	<key>DataAutoSaveTime</key>
+	<integer>60</integer>
+	<key>DataBeginCheck</key>
+	<integer>30</integer>
+	<key>DataMaxFileSize</key>
+	<integer>1048576</integer>
+	<key>Home URL</key>
+	<string>http://www.wondershare.com</string>
+	<key>IsTestEnvironment</key>
+	<false/>
+	<key>LSBackgroundOnly</key>
+	<true/>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.6</string>
+	<key>LSUIElement</key>
+	<false/>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>PID</key>
+	<string>1026</string>
+	<key>Remind Check Tips Interval</key>
+	<integer>3600</integer>
+	<key>Remind Start Show Interval</key>
+	<integer>20</integer>
+	<key>Service URL</key>
+	<string>1b4b4a525c06104505534c52594c0b5719580953034b10405b1c0d064849541053550e08</string>
+	<key>Show Tip Interval</key>
+	<integer>60</integer>
+	<key>Start Show Tip Interval</key>
+	<integer>60</integer>
+	<key>Supprot URL</key>
+	<string>http://my.wondershare.com</string>
+	<key>Web Request Timeout interval
+&lt;!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"&gt;
+&lt;plist version="1.0"&gt;
+&lt;integer&gt;5&lt;/integer&gt;
+&lt;/plist&gt;
+web request time out interval</key>
+	<integer>20</integer>
+</dict>
+</plist>

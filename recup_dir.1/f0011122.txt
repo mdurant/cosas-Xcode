@@ -1,0 +1,6 @@
+legate <NSObject>
+- (void)AskInstallTheBindApp:(NSString *)productBundleID productName:(NSString *)productName;
+- (void)bindAppHasDownloadLength:(NSString *)length;
+@end
+
+// FTP

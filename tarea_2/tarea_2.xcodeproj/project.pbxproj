@@ -1,0 +1,447 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		113437FA1AD98F6D000C060E /* Cliente.m in Sources */ = {isa = PBXBuildFile; fileRef = 113437F91AD98F6D000C060E /* Cliente.m */; };
+		113437FD1AD99364000C060E /* Producto.m in Sources */ = {isa = PBXBuildFile; fileRef = 113437FC1AD99364000C060E /* Producto.m */; };
+		113438001AD993D9000C060E /* Factura.m in Sources */ = {isa = PBXBuildFile; fileRef = 113437FF1AD993D9000C060E /* Factura.m */; };
+		119379F41AC4E2AD0063FDCE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119379F31AC4E2AD0063FDCE /* AppDelegate.swift */; };
+		119379F61AC4E2AD0063FDCE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119379F51AC4E2AD0063FDCE /* ViewController.swift */; };
+		119379F91AC4E2AD0063FDCE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 119379F71AC4E2AD0063FDCE /* Main.storyboard */; };
+		119379FB1AC4E2AD0063FDCE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 119379FA1AC4E2AD0063FDCE /* Images.xcassets */; };
+		119379FE1AC4E2AD0063FDCE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 119379FC1AC4E2AD0063FDCE /* LaunchScreen.xib */; };
+		11937A0A1AC4E2AD0063FDCE /* tarea_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11937A091AC4E2AD0063FDCE /* tarea_2Tests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		11937A041AC4E2AD0063FDCE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 119379E61AC4E2AC0063FDCE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 119379ED1AC4E2AC0063FDCE;
+			remoteInfo = tarea_2;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		113437F81AD98F6D000C060E /* Cliente.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cliente.h; sourceTree = "<group>"; };
+		113437F91AD98F6D000C060E /* Cliente.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cliente.m; sourceTree = "<group>"; };
+		113437FB1AD99364000C060E /* Producto.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Producto.h; path = ../Producto.h; sourceTree = "<group>"; };
+		113437FC1AD99364000C060E /* Producto.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Producto.m; path = ../Producto.m; sourceTree = "<group>"; };
+		113437FE1AD993D9000C060E /* Factura.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Factura.h; sourceTree = "<group>"; };
+		113437FF1AD993D9000C060E /* Factura.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Factura.m; sourceTree = "<group>"; };
+		1188B9D61AC8F9B6007FE5D8 /* tarea_2-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "tarea_2-Bridging-Header.h"; sourceTree = "<group>"; };
+		119379EE1AC4E2AD0063FDCE /* tarea_2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tarea_2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		119379F21AC4E2AD0063FDCE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		119379F31AC4E2AD0063FDCE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		119379F51AC4E2AD0063FDCE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		119379F81AC4E2AD0063FDCE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		119379FA1AC4E2AD0063FDCE /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		119379FD1AC4E2AD0063FDCE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		11937A031AC4E2AD0063FDCE /* tarea_2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tarea_2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		11937A081AC4E2AD0063FDCE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		11937A091AC4E2AD0063FDCE /* tarea_2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tarea_2Tests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		119379EB1AC4E2AC0063FDCE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11937A001AC4E2AD0063FDCE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		119379E51AC4E2AC0063FDCE = {
+			isa = PBXGroup;
+			children = (
+				119379F01AC4E2AD0063FDCE /* tarea_2 */,
+				11937A061AC4E2AD0063FDCE /* tarea_2Tests */,
+				119379EF1AC4E2AD0063FDCE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		119379EF1AC4E2AD0063FDCE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				119379EE1AC4E2AD0063FDCE /* tarea_2.app */,
+				11937A031AC4E2AD0063FDCE /* tarea_2Tests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		119379F01AC4E2AD0063FDCE /* tarea_2 */ = {
+			isa = PBXGroup;
+			children = (
+				113437FE1AD993D9000C060E /* Factura.h */,
+				113437FF1AD993D9000C060E /* Factura.m */,
+				113437FB1AD99364000C060E /* Producto.h */,
+				113437FC1AD99364000C060E /* Producto.m */,
+				119379F31AC4E2AD0063FDCE /* AppDelegate.swift */,
+				119379F51AC4E2AD0063FDCE /* ViewController.swift */,
+				119379F71AC4E2AD0063FDCE /* Main.storyboard */,
+				119379FA1AC4E2AD0063FDCE /* Images.xcassets */,
+				119379FC1AC4E2AD0063FDCE /* LaunchScreen.xib */,
+				119379F11AC4E2AD0063FDCE /* Supporting Files */,
+				1188B9D61AC8F9B6007FE5D8 /* tarea_2-Bridging-Header.h */,
+				113437F81AD98F6D000C060E /* Cliente.h */,
+				113437F91AD98F6D000C060E /* Cliente.m */,
+			);
+			path = tarea_2;
+			sourceTree = "<group>";
+		};
+		119379F11AC4E2AD0063FDCE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				119379F21AC4E2AD0063FDCE /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		11937A061AC4E2AD0063FDCE /* tarea_2Tests */ = {
+			isa = PBXGroup;
+			children = (
+				11937A091AC4E2AD0063FDCE /* tarea_2Tests.swift */,
+				11937A071AC4E2AD0063FDCE /* Supporting Files */,
+			);
+			path = tarea_2Tests;
+			sourceTree = "<group>";
+		};
+		11937A071AC4E2AD0063FDCE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				11937A081AC4E2AD0063FDCE /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		119379ED1AC4E2AC0063FDCE /* tarea_2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 11937A0D1AC4E2AD0063FDCE /* Build configuration list for PBXNativeTarget "tarea_2" */;
+			buildPhases = (
+				119379EA1AC4E2AC0063FDCE /* Sources */,
+				119379EB1AC4E2AC0063FDCE /* Frameworks */,
+				119379EC1AC4E2AC0063FDCE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = tarea_2;
+			productName = tarea_2;
+			productReference = 119379EE1AC4E2AD0063FDCE /* tarea_2.app */;
+			productType = "com.apple.product-type.application";
+		};
+		11937A021AC4E2AD0063FDCE /* tarea_2Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 11937A101AC4E2AD0063FDCE /* Build configuration list for PBXNativeTarget "tarea_2Tests" */;
+			buildPhases = (
+				119379FF1AC4E2AD0063FDCE /* Sources */,
+				11937A001AC4E2AD0063FDCE /* Frameworks */,
+				11937A011AC4E2AD0063FDCE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				11937A051AC4E2AD0063FDCE /* PBXTargetDependency */,
+			);
+			name = tarea_2Tests;
+			productName = tarea_2Tests;
+			productReference = 11937A031AC4E2AD0063FDCE /* tarea_2Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		119379E61AC4E2AC0063FDCE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = netcode.cl;
+				TargetAttributes = {
+					119379ED1AC4E2AC0063FDCE = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					11937A021AC4E2AD0063FDCE = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = 119379ED1AC4E2AC0063FDCE;
+					};
+				};
+			};
+			buildConfigurationList = 119379E91AC4E2AC0063FDCE /* Build configuration list for PBXProject "tarea_2" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 119379E51AC4E2AC0063FDCE;
+			productRefGroup = 119379EF1AC4E2AD0063FDCE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				119379ED1AC4E2AC0063FDCE /* tarea_2 */,
+				11937A021AC4E2AD0063FDCE /* tarea_2Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		119379EC1AC4E2AC0063FDCE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				119379F91AC4E2AD0063FDCE /* Main.storyboard in Resources */,
+				119379FE1AC4E2AD0063FDCE /* LaunchScreen.xib in Resources */,
+				119379FB1AC4E2AD0063FDCE /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		11937A011AC4E2AD0063FDCE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		119379EA1AC4E2AC0063FDCE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				113438001AD993D9000C060E /* Factura.m in Sources */,
+				119379F61AC4E2AD0063FDCE /* ViewController.swift in Sources */,
+				113437FD1AD99364000C060E /* Producto.m in Sources */,
+				113437FA1AD98F6D000C060E /* Cliente.m in Sources */,
+				119379F41AC4E2AD0063FDCE /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		119379FF1AC4E2AD0063FDCE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				11937A0A1AC4E2AD0063FDCE /* tarea_2Tests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		11937A051AC4E2AD0063FDCE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 119379ED1AC4E2AC0063FDCE /* tarea_2 */;
+			targetProxy = 11937A041AC4E2AD0063FDCE /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		119379F71AC4E2AD0063FDCE /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				119379F81AC4E2AD0063FDCE /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		119379FC1AC4E2AD0063FDCE /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				119379FD1AC4E2AD0063FDCE /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		11937A0B1AC4E2AD0063FDCE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		11937A0C1AC4E2AD0063FDCE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		11937A0E1AC4E2AD0063FDCE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				INFOPLIST_FILE = tarea_2/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "tarea_2/tarea_2-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		11937A0F1AC4E2AD0063FDCE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				INFOPLIST_FILE = tarea_2/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "tarea_2/tarea_2-Bridging-Header.h";
+			};
+			name = Release;
+		};
+		11937A111AC4E2AD0063FDCE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = tarea_2Tests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/tarea_2.app/tarea_2";
+			};
+			name = Debug;
+		};
+		11937A121AC4E2AD0063FDCE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = tarea_2Tests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/tarea_2.app/tarea_2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		119379E91AC4E2AC0063FDCE /* Build configuration list for PBXProject "tarea_2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				11937A0B1AC4E2AD0063FDCE /* Debug */,
+				11937A0C1AC4E2AD0063FDCE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		11937A0D1AC4E2AD0063FDCE /* Build configuration list for PBXNativeTarget "tarea_2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				11937A0E1AC4E2AD0063FDCE /* Debug */,
+				11937A0F1AC4E2AD0063FDCE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		11937A101AC4E2AD0063FDCE /* Build configuration list for PBXNativeTarget "tarea_2Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				11937A111AC4E2AD0063FDCE /* Debug */,
+				11937A121AC4E2AD0063FDCE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 119379E61AC4E2AC0063FDCE /* Project object */;
+}

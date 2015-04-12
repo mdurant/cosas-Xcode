@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AID</key>
+	<string></string>
+	<key>BuildMachineOSBuild</key>
+	<string>11G63</string>
+	<key>BuyURL</key>
+	<string>gJycmNLFxYmKmcadhYaMi5qZgIeai8aJhYPFjYXGmICY1Zh/jNPd2d3Og9OMig==</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Wondershare Data Recovery</string>
+	<key>CFBundleExecutable</key>
+	<string>Wondershare Data Recovery</string>
+	<key>CFBundleIconFile</key>
+	<string>Log.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.Wondershare.Data_Recovery</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Wondershare Data Recovery</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.2.2</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>3.2.2</string>
+	<key>CanJumpAfterRegister</key>
+	<string>1</string>
+	<key>CanJumpAfterUninstallURL</key>
+	<string></string>
+	<key>CheckUpdateURL</key>
+	<string>http://cbs.wondershare.com/go.php?pid=737&amp;m=0</string>
+	<key>Custom1URL</key>
+	<string>http://cbs.wondershare.com/go.php?pid=737&amp;m=c1</string>
+	<key>Custom2URL</key>
+	<string>http://cbs.wondershare.com/go.php?pid=737&amp;m=c2</string>
+	<key>Custom3URL</key>
+	<string>http://cbs.wondershare.com/go.php?pid=737&amp;m=c3</string>
+	<key>Custom4URL</key>
+	<string>http://cbs.wondershare.com/go.php?pid=737&amp;m=c4</string>
+	<key>Custom5URL</key>
+	<string>http://cbs.wondershare.com/go.php?pid=737&amp;m=c5</string>
+	<key>CustomerServiceURL</key>
+	<string>http://cbs.wondershare.com/go.php?pid=737&amp;m=dc</string>
+	<key>CustomizeFilePath</key>
+	<string>/Contents/MacOS/Wondershare Data Recovery.app/Contents</string>
+	<key>CustomizeType</key>
+	<string>Normal</string>
+	<key>DTCompiler</key>
+	<string></string>
+	<key>DTPlatformBuild</key>
+	<string>4E2002</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>10K549</string>
+	<key>DTSDKName</key>
+	<string>macosx10.6</string>
+	<key>DTXcode</key>
+	<string>0432</string>
+	<key>DTXcodeBuild</key>
+	<string>4E2002</string>
+	<key>DisableUpdate</key>
+	<string></string>
+	<key>DiscountURL</key>
+	<string></string>
+	<key>GuideURL</key>
+	<string></string>
+	<key>Helepr App name</key>
+	<string>Wondershare Helper Compact</string>
+	<key>HelpOnlineURL</key>
+	<string>http://cbs.wondershare.com/go.php?pid=737&amp;m=do</string>
+	<key>Helper Bundle indentifiter</key>
+	<string>com.wondershare.helper_compact</string>
+	<key>Helper loaction path</key>
+	<string>/Applications/Wondershare Helper compact</string>
+	<key>HomePageURL</key>
+	<string>http://cbs.wondershare.com/go.php?pid=737&amp;m=dh</string>
+	<key>JumpAfterInstallURL</key>
+	<string>http://cbs.wondershare.com/go.php?pid=737&amp;m=i</string>
+	<key>JumpAfterRegisterURL</key>
+	<string>http://cbs.wondershare.com/go.php?pid=737&amp;m=r</string>
+	<key>JumpAfterUninstallURL</key>
+	<string>http://cbs.wondershare.com/go.php?pid=737&amp;m=u</string>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2014 Wondershare. All Rights Reserved.</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NoCBSJump</key>
+	<string></string>
+	<key>PID</key>
+	<string>737</string>
+	<key>ProductPageURL</key>
+	<string>http://cbs.wondershare.com/go.php?pid=737&amp;m=dp</string>
+	<key>PubKey</key>
+	<string>8+oo0lL9OHg45EQipm5SmqfFnuH/dmus7M83LYqKd9uQtxIxCwB3zxj+GCiIopuZEL3uL11mqiHjmD9J/0B8PANeQlrIAXASdb28O3tq8NeGy1TZ2bytDwbPaF1p9yxFFePEsbAIyrflIXJCeFpznA==</string>
+	<key>RegnowURL</key>
+	<string></string>
+	<key>SUScheduledCheckInterval</key>
+	<string>2592000</string>
+	<key>SupportURL</key>
+	<string>http://cbs.wondershare.com/go.php?pid=737&amp;m=ds</string>
+	<key>TwitterURL</key>
+	<string></string>
+	<key>UnregisterNote</key>
+	<string>Files found by the unregistered version cannot be recovered.</string>
+</dict>
+</plist>

@@ -1,0 +1,62 @@
+//
+//  RegisterCtl.h
+//  RegisterDlg
+//
+//  Created by wanggh on 7/15/10.
+//  Copyright 2010 wondershare. All rights reserved.
+//
+
+#import <Cocoa/Cocoa.h>
+//
+
+#define RegisterDlgCtl_Closed_Notification @"RegisterDlgCtl_Closed_Notification"
+@protocol RegisterCtlDelegate
+- (BOOL)registerEmail:(NSString *)email sn:(NSString *)sn;
+- (BOOL)isRegistered;
+- (NSString *)regEmail;
+- (NSString *)regSN;
+- (int)remainCount;
+- (int)remainDays;
+@end
+
+@interface RegisterCtl : NSObject {
+	id<RegisterCtlDelegate> delegate_;
+	NSWindow *firstWindow_;
+}
+
+@property(assign, readwrite) IBOutlet id<RegisterCtlDelegate> delegate;
+@property(assign, readwrite) IBOutlet NSWindow * firstWindow;
+- (void)setDesplayLetfTimes:(BOOL)isLimit;
+- (void)setDesplayleftDays:(BOOL)isLimit;
+- (BOOL)isRegisting;
+//- (void)runRegister;
+- (void)jumpCBS; // you needn't call it. when xib awaked, it called automatically
+- (void)runModalWindow;
+- (IBAction)showRegister:(id)sender; // for menu action
+//- (void)showRegisterWindow:(BOOL)needClosedNotification; // after window close send notification RegisterCtl_RegisterWindowClosed_Notification
+- (IBAction)showRegisterSheet:(id)sender;
+
+
+- (IBAction)showAbout:(id)sender;
+//- (void)setBuyUrl:(NSString *)url;
+
+- (IBAction)clickSupportURL:(id)sender;
+- (IBAction)clickCustomerServiceURL:(id)sender;
+- (IBAction)clickHomePageURL:(id)sender;
+- (IBAction)clickHelpOnlineURL:(id)sender;
+- (IBAction)clickProductPageURL:(id)sender;
+- (IBAction)clickSurveyURL:(id)sender;
+- (IBAction)clickBuyURL:(id)sender; // (AID, RegnowURL), BuyURL
+
+- (IBAction)openCustom1URL:(id)sender;
+- (IBAction)openCustom2URL:(id)sender;
+- (IBAction)openCustom3URL:(id)sender;
+- (IBAction)openCustom4URL:(id)sender;
+- (IBAction)openCustom5URL:(id)sender;
+
+- (NSString *)supportURL;
+- (NSString *)helpOnlineURL;
+
+- (NSWindow *)regWnd;
+@end
+

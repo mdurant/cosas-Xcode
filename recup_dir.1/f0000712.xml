@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CustomizationSetting version="1.0">
+    <AgentSettings>
+        <Setting name="CustomizeType" type="enum">Normal</Setting>
+        <Setting name="ProductName" type="string">610465</Setting>
+        <Setting name="ProductVersion" type="string">3.2.2</Setting>
+        <Setting name="AppName" type="string">Wondershare Data Recovery</Setting>
+        <Setting name="Publisher" type="string">Wondershare</Setting>
+        <Setting name="OrderNumber" type="string"/>
+        <Setting name="AID" type="string"/>
+        <Setting name="UseShortAffiliateOrderLink" type="bool">0</Setting>
+        <Setting name="OutputFileName" type="string"><![CDATA[lkouimmk2lfphjfpuiv32f3k84-5413020ad7879.dmg]]></Setting>
+    </AgentSettings>
+    <Languages>
+        <Language name="FRA">
+            <Settings>
+                <Setting name="PID" type="string">737</Setting>
+                <Setting name="EnableAD" type="bool">0</Setting>
+                <Setting name="EnableUpdate" type="bool">0</Setting>
+                <Setting name="CBSJumpType" type="enum">Disable</Setting>
+                <Setting name="TipsEnable" type="bool">0</Setting>
+                <Setting name="EnableProductSuit" type="bool">0</Setting>
+            </Settings>
+            <URLS>
+                <URL name="HomePageURL" type="comm" updateReserve="0">http://getdatabackmac.com/</URL>
+                <URL name="CanJumpAfterUninstallURL" type="custom" updateReserve="0"><![CDATA[1]]></URL>
+                <URL name="DiscountURL" type="custom" updateReserve="0"><![CDATA[]]></URL>
+                <URL name="BuyURL" type="order" updateReserve="0">https://shopper.mycommerce.com/checkout/cart/add/8799-263?affiliate_id=610465&amp;linkid=gdb&amp;ss_short_order=true</URL>
+                <URL name="GuideURL" type="custom" updateReserve="0"><![CDATA[]]></URL>
+                <URL name="ProductPageURL" type="comm" updateReserve="0">http://getdatabackmac.com/</URL>
+                <URL name="CustomerServiceURL" type="comm" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=938&m=dc]]></URL>
+                <URL name="SupportURL" type="comm" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=938&m=ds]]></URL>
+                <URL name="JumpAfterInstallURL" type="jump" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=938&m=i]]></URL>
+                <URL name="Custom1URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=938&m=c1]]></URL>
+                <URL name="Custom2URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=938&m=c2]]></URL>
+                <URL name="Custom3URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=938&m=c3]]></URL>
+                <URL name="JumpAfterRegisterURL" type="jump" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=938&m=r]]></URL>
+                <URL name="Custom4URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=938&m=c4]]></URL>
+                <URL name="Custom5URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=938&m=c5]]></URL>
+                <URL name="HelpOnlineURL" type="comm" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=938&m=do]]></URL>
+                <URL name="CheckUpdateURL" type="jump" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=938&m=o]]></URL>
+                <URL name="JumpAfterUninstallURL" type="jump" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=938&m=u]]></URL>
+            </URLS>
+        </Language>
+        <Language name="JPN">
+            <Settings>
+                <Setting name="PID" type="string">737</Setting>
+                <Setting name="EnableAD" type="bool">0</Setting>
+                <Setting name="EnableUpdate" type="bool">0</Setting>
+                <Setting name="CBSJumpType" type="enum">Disable</Setting>
+                <Setting name="TipsEnable" type="bool">0</Setting>
+                <Setting name="EnableProductSuit" type="bool">0</Setting>
+            </Settings>
+            <URLS>
+                <URL name="HomePageURL" type="comm" updateReserve="0">http://getdatabackmac.com/</URL>
+                <URL name="CanJumpAfterUninstallURL" type="custom" updateReserve="0"><![CDATA[1]]></URL>
+                <URL name="DiscountURL" type="custom" updateReserve="0"><![CDATA[]]></URL>
+                <URL name="BuyURL" type="order" updateReserve="0">https://shopper.mycommerce.com/checkout/cart/add/8799-263?affiliate_id=610465&amp;linkid=gdb&amp;ss_short_order=true</URL>
+                <URL name="GuideURL" type="custom" updateReserve="0"><![CDATA[]]></URL>
+                <URL name="ProductPageURL" type="comm" updateReserve="0">http://getdatabackmac.com/</URL>
+                <URL name="CustomerServiceURL" type="comm" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1221&m=dc]]></URL>
+                <URL name="SupportURL" type="comm" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1221&m=ds]]></URL>
+                <URL name="JumpAfterInstallURL" type="jump" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1221&m=i]]></URL>
+                <URL name="Custom1URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1221&m=c1]]></URL>
+                <URL name="Custom2URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1221&m=c2]]></URL>
+                <URL name="Custom3URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1221&m=c3]]></URL>
+                <URL name="JumpAfterRegisterURL" type="jump" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1221&m=r]]></URL>
+                <URL name="Custom4URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1221&m=c4]]></URL>
+                <URL name="Custom5URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1221&m=c5]]></URL>
+                <URL name="HelpOnlineURL" type="comm" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1221&m=do]]></URL>
+                <URL name="CheckUpdateURL" type="jump" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1221&m=o]]></URL>
+                <URL name="JumpAfterUninstallURL" type="jump" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1221&m=u]]></URL>
+            </URLS>
+        </Language>
+        <Language name="DEU">
+            <Settings>
+                <Setting name="PID" type="string">737</Setting>
+                <Setting name="EnableAD" type="bool">0</Setting>
+                <Setting name="EnableUpdate" type="bool">0</Setting>
+                <Setting name="CBSJumpType" type="enum">Disable</Setting>
+                <Setting name="TipsEnable" type="bool">0</Setting>
+                <Setting name="EnableProductSuit" type="bool">0</Setting>
+            </Settings>
+            <URLS>
+                <URL name="HomePageURL" type="comm" updateReserve="0">http://getdatabackmac.com/</URL>
+                <URL name="CanJumpAfterUninstallURL" type="custom" updateReserve="0"><![CDATA[1]]></URL>
+                <URL name="DiscountURL" type="custom" updateReserve="0"><![CDATA[]]></URL>
+                <URL name="BuyURL" type="order" updateReserve="0">https://shopper.mycommerce.com/checkout/cart/add/8799-263?affiliate_id=610465&amp;linkid=gdb&amp;ss_short_order=true</URL>
+                <URL name="GuideURL" type="custom" updateReserve="0"><![CDATA[]]></URL>
+                <URL name="ProductPageURL" type="comm" updateReserve="0">http://getdatabackmac.com/</URL>
+                <URL name="CustomerServiceURL" type="comm" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1176&m=dc]]></URL>
+                <URL name="SupportURL" type="comm" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1176&m=ds]]></URL>
+                <URL name="JumpAfterInstallURL" type="jump" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1176&m=i]]></URL>
+                <URL name="Custom1URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1176&m=c1]]></URL>
+                <URL name="Custom2URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1176&m=c2]]></URL>
+                <URL name="Custom3URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1176&m=c3]]></URL>
+                <URL name="JumpAfterRegisterURL" type="jump" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1176&m=r]]></URL>
+                <URL name="Custom4URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1176&m=c4]]></URL>
+                <URL name="Custom5URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1176&m=c5]]></URL>
+                <URL name="HelpOnlineURL" type="comm" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1176&m=do]]></URL>
+                <URL name="CheckUpdateURL" type="jump" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1176&m=o]]></URL>
+                <URL name="JumpAfterUninstallURL" type="jump" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=1176&m=u]]></URL>
+            </URLS>
+        </Language>
+        <Language name="ENG">
+            <Settings>
+                <Setting name="PID" type="string">737</Setting>
+                <Setting name="EnableAD" type="bool">0</Setting>
+                <Setting name="EnableUpdate" type="bool">0</Setting>
+                <Setting name="CBSJumpType" type="enum">Disable</Setting>
+                <Setting name="TipsEnable" type="bool">0</Setting>
+                <Setting name="EnableProductSuit" type="bool">0</Setting>
+            </Settings>
+            <URLS>
+                <URL name="HomePageURL" type="comm" updateReserve="0">http://getdatabackmac.com/</URL>
+                <URL name="CanJumpAfterUninstallURL" type="custom" updateReserve="0"><![CDATA[1]]></URL>
+                <URL name="DiscountURL" type="custom" updateReserve="0"><![CDATA[]]></URL>
+                <URL name="BuyURL" type="order" updateReserve="0">https://shopper.mycommerce.com/checkout/cart/add/8799-263?affiliate_id=610465&amp;linkid=gdb&amp;ss_short_order=true</URL>
+                <URL name="GuideURL" type="custom" updateReserve="0"><![CDATA[]]></URL>
+                <URL name="ProductPageURL" type="comm" updateReserve="0">http://getdatabackmac.com/</URL>
+                <URL name="CustomerServiceURL" type="comm" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=737&m=dc]]></URL>
+                <URL name="SupportURL" type="comm" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=737&m=ds]]></URL>
+                <URL name="JumpAfterInstallURL" type="jump" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=737&m=i]]></URL>
+                <URL name="Custom1URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=737&m=c1]]></URL>
+                <URL name="Custom2URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=737&m=c2]]></URL>
+                <URL name="Custom3URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=737&m=c3]]></URL>
+                <URL name="JumpAfterRegisterURL" type="jump" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=737&m=r]]></URL>
+                <URL name="Custom4URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=737&m=c4]]></URL>
+                <URL name="Custom5URL" type="custom" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=737&m=c5]]></URL>
+                <URL name="HelpOnlineURL" type="comm" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=737&m=do]]></URL>
+                <URL name="CheckUpdateURL" type="jump" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=737&m=o]]></URL>
+                <URL name="JumpAfterUninstallURL" type="jump" updateReserve="0"><![CDATA[http://cbs.wondershare.com/go.php?pid=737&m=u]]></URL>
+            </URLS>
+        </Language>
+    </Languages>
+</CustomizationSetting>

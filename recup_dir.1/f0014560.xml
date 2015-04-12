@@ -1,0 +1,339 @@
+<?xml version="1.0"?>
+<FileType>
+  <File ID="1">
+    <Extension>jpg</Extension>
+    <Discription>JPG picture</Discription>
+    <MinSize>4096</MinSize>
+    <MaxSize>33554432</MaxSize>
+  </File>
+  <File ID="2">
+    <Extension>doc</Extension>
+    <Discription>MS Office Word</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>33554432</MaxSize>
+  </File>
+  <File ID="2">
+    <Extension>ppt</Extension>
+    <Discription>MS Office PowerPoint</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="2">
+    <Extension>xls</Extension>
+    <Discription>MS Office Excel</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>33554432</MaxSize>
+  </File>
+  <File ID="3">
+    <Extension>zip</Extension>
+    <Discription>zip archive</Discription>
+    <MinSize>8192</MinSize>
+	<MaxSize>1073741824</MaxSize>
+  </File>
+  <File ID="3">
+    <Extension>docx</Extension>
+    <Discription>MS Office Word 2007</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="3">
+    <Extension>pptx</Extension>
+    <Discription>MS Office PowerPoint 2007</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>536870912</MaxSize>
+  </File>
+  <File ID="3">
+    <Extension>xlsx</Extension>
+    <Discription>MS Office Excel 2007</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="4">
+    <Extension>gif</Extension>
+    <Discription>Graphics Interchange Format</Discription>
+    <MinSize>4096</MinSize>
+    <MaxSize>33554432</MaxSize>
+  </File>
+  <File ID="5">
+    <Extension>tif</Extension>
+    <Discription>Tag-base file format</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="5">
+    <Extension>dng</Extension>
+    <Discription>Digital negative</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="5">
+    <Extension>cr2</Extension>
+    <Discription>Canon digital cameras raw file</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="5">
+    <Extension>nef</Extension>
+    <Discription>Nikon digital cameras raw file</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="5">
+    <Extension>orf</Extension>
+    <Discription>Olympus digital cameras raw file</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="5">
+    <Extension>sr2</Extension>
+    <Discription>Canon digital cameras raw file</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="5">
+    <Extension>drc</Extension>
+    <Discription>Metadata digital cameras raw file</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="5">
+    <Extension>erf</Extension>
+    <Discription>Epson digital cameras raw file</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="5">
+    <Extension>raw</Extension>
+    <Discription>Panasonic digital cameras raw file</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="6">
+    <Extension>bmp</Extension>
+    <Discription>Bitmap</Discription>
+    <MinSize>4096</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="7">
+    <Extension>png</Extension>
+    <Discription>Portable Image Network Graphics</Discription>
+    <MinSize>4096</MinSize>
+    <MaxSize>33554432</MaxSize>
+  </File>
+  <File ID="8">
+    <Extension>psd</Extension>
+    <Discription>Photoshop Image Resources</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="9">
+    <Extension>pdf</Extension>
+    <Discription>Portable Doucment Format</Discription>
+    <MinSize>8192</MinSize>
+	<MaxSize>536870912</MaxSize>
+  </File>
+  <File ID="10">
+    <Extension>rar</Extension>
+    <Discription>WinRar archive file</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>1073741824</MaxSize>
+  </File>
+  <File ID="11">
+    <Extension>wmf</Extension>
+    <Discription>Microsoft Windows Metafile</Discription>
+    <MinSize>0</MinSize>
+    <MaxSize>33554432</MaxSize>
+  </File>
+  <File ID="12">
+    <Extension>pst</Extension>
+    <Discription>Outlook Personal Folders File Format</Discription>
+    <MinSize>1024</MinSize>
+    <MaxSize>67108864</MaxSize>
+  </File>
+  <File ID="13">
+    <Extension>dbx</Extension>
+    <Discription>Outlook Express File Format</Discription>
+    <MinSize>10964</MinSize>
+    <MaxSize>67108864</MaxSize>
+  </File>
+  <File ID="14">
+    <Extension>crw</Extension>
+    <Discription>Canon raw picture</Discription>
+    <MinSize>1048576</MinSize>
+    <MaxSize>67108864</MaxSize>
+  </File>
+  <File ID="15">
+    <Extension>mp3</Extension>
+    <Discription>MP3 audio</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="16">
+    <Extension>mov</Extension>
+    <Discription>QuickTime multimedia file format</Discription>
+    <MinSize>32768</MinSize>
+    <MaxSize>10737418240</MaxSize>
+  </File>
+  <File ID="16">
+    <Extension>mp4</Extension>
+    <Discription>MP4 format</Discription>
+    <MinSize>32768</MinSize>
+    <MaxSize>10737418240</MaxSize>
+  </File>
+  <File ID="16">
+    <Extension>m4a</Extension>
+    <Discription>MP4 format</Discription>
+    <MinSize>32768</MinSize>
+    <MaxSize>536870912</MaxSize>
+  </File>
+  <File ID="16">
+    <Extension>m4v</Extension>
+    <Discription>MP4 format</Discription>
+    <MinSize>32768</MinSize>
+    <MaxSize>5368709120</MaxSize>
+  </File>
+  <File ID="16">
+    <Extension>3gp</Extension>
+    <Discription>3gp format</Discription>
+    <MinSize>32768</MinSize>
+    <MaxSize>2147483648</MaxSize>
+  </File>
+  <File ID="16">
+    <Extension>3g2</Extension>
+    <Discription>MPEG-4 file</Discription>
+    <MinSize>32768</MinSize>
+    <MaxSize>1073741824</MaxSize>
+  </File>
+  <File ID="17">
+    <Extension>htm</Extension>
+    <Discription>HyperText Markup Language File</Discription>
+    <MinSize>0</MinSize>
+    <MaxSize>1048576</MaxSize>
+  </File>
+  <File ID="18">
+    <Extension>avi</Extension>
+    <Discription>Audio Video Interleaved</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>10737418240</MaxSize>
+  </File>
+  <File ID="18">
+    <Extension>wav</Extension>
+    <Discription>Audio Video Interleaved</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="19">
+    <Extension>rm</Extension>
+    <Discription>RealMedia File Format</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>2147483648</MaxSize>
+  </File>
+  <File ID="19">
+    <Extension>rmvb</Extension>
+    <Discription>RealMedia File Format</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>5368709120</MaxSize>
+  </File>
+  <File ID="20">
+    <Extension>asf</Extension>
+    <Discription>Advanced System Format</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>2147483648</MaxSize>
+  </File>
+  <File ID="20">
+    <Extension>wma</Extension>
+    <Discription>Advanced System Format</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="20">
+    <Extension>wmv</Extension>
+    <Discription>Advanced System Format</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>2147483648</MaxSize>
+  </File>
+  <File ID="21">
+    <Extension>swf</Extension>
+    <Discription>Macromedia Flash (Compiled)</Discription>
+    <MinSize>0</MinSize>
+    <MaxSize>1073741824</MaxSize>
+  </File>
+  <File ID="22">
+    <Extension>flv</Extension>
+    <Discription>Macromedia Flash Video</Discription>
+    <MinSize>8192</MinSize>
+	<MaxSize>2147483648</MaxSize>
+  </File>
+  <File ID="23">
+    <Extension>mpg</Extension>
+    <Discription>MPEG-1/2 audio/video file</Discription>
+	<MinSize>8192</MinSize>
+    <MaxSize>10737418240</MaxSize>
+  </File>
+  <File ID="24">
+    <Extension>sit</Extension>
+    <Discription>StuffIt archive file</Discription>
+    <MinSize>128</MinSize>
+    <MaxSize>10737418240</MaxSize>
+  </File>
+  <File ID="25">
+    <Extension>ogg</Extension>
+    <Discription>Ogg audio</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="26">
+    <Extension>mid</Extension>
+    <Discription>MIDI Musical Instrument Digital Interface</Discription>
+    <MinSize>0</MinSize>
+    <MaxSize>8388608</MaxSize>
+  </File>
+  <File ID="27">
+    <Extension>aif</Extension>
+    <Discription>Audio Interchange File Format</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>67108864</MaxSize>
+  </File>
+  <File ID="28">
+    <Extension>aac</Extension>
+    <Discription>Advanced Audio Coder</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="29">
+    <Extension>indd</Extension>
+    <Discription>Adobe InDesign File</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>67108864</MaxSize>
+  </File>
+  <File ID="30">
+    <Extension>cwk</Extension>
+    <Discription>AppleWorks</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>16777216</MaxSize>
+  </File>
+  <File ID="31">
+    <Extension>eps</Extension>
+    <Discription>PostScript or Encapsulated PostScript document</Discription>
+    <MinSize>1024</MinSize>
+    <MaxSize>33554432</MaxSize>
+  </File>
+  <File ID="32">
+    <Extension>emlx</Extension>
+    <Discription>Apple Mail</Discription>
+    <MinSize>0</MinSize>
+    <MaxSize>1048576</MaxSize>
+  </File>
+  <File ID="33">
+    <Extension>raf</Extension>
+    <Discription>Fuji digital cameras raw file</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+  <File ID="34">
+    <Extension>mrw</Extension>
+    <Discription>Minolta digital cameras raw file</Discription>
+    <MinSize>8192</MinSize>
+    <MaxSize>134217728</MaxSize>
+  </File>
+</FileType>
